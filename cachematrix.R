@@ -1,5 +1,5 @@
 ## Functions makeCacheMatrix() and cacheSolve() 
-## used to compute and cache the inverse of a matrix
+## Used to compute and cache the inverse of a matrix
 
 # makeCacheMatrix()  
 # Takes a matrix as its argument and creates a special "matrix" object
